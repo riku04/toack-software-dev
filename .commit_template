@@ -10,6 +10,7 @@
 # [upgrade] 依存パッケージなどの更新
 # [add]ファイル追加
 # [remove] ファイル削除
+# [wip]開発途中
 
 # ==== Format ====
 # [Prefixe]Subject
