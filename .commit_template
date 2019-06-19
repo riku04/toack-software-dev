@@ -16,7 +16,7 @@
 #
 # Commit body...
 
-# ==== The Seven Rules ====
+# ==== Rules ====
 # 1. 空白行をSubjectとbodyの間に挿入する
 # 2. bodyは50文字以内
 # 3. bodyは何をなぜどのように変更したか説明する
