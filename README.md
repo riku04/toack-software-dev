@@ -7,7 +7,7 @@
 ## ソフトウェア開発を行う上での原則
 ### 1. 原則としてプロジェクト成果物は全てGitHubで管理する
 
- Git、GitHubについては下記のサイトなどを参照。
+ Git、GitHubについては下記のサイトなどを参照。  
   [今日からはじめるGitHub 〜 初心者がGitをインストールして、プルリクできるようになるまでを解説](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
 
  管理するのは主に下記のファイルとなる
@@ -19,16 +19,13 @@
 - Libraryなどの依存関係の定義
 
 
-### 2. 運用は[Git開発フロー](https://github.com/isobe-h/toack-software-dev/wiki/Git開発フロー)に従う
+### 2. 運用は[Git開発フロー](/Gitを使った開発の流れ.md)に従う
 
 ### 3. 問題点や課題は全てGitHubのIssuesで管理する
 
-### 4. コーディング規則に従ってコーディングを行う
-
-- [C言語コーディング規則](https://github.com/isobe-h/toack-software-dev/wiki/C言語コーディング規則) 
-
-- [C#コーディング規則](https://github.com/isobe-h/toack-software-dev/wiki/C%23コーディング規則) 
-
-- 　[Javaコーディング規則](https://github.com/isobe-h/toack-software-dev/wiki/Javaコーディング規則)
+### 4. 原則としてコーディング規則に従う
    
-   
+   - [C#](/csharp-guide/)
+   - [Python](/python-guide)
+   - [Java](/java-guide)
+   - [HTML/CSS](/html:css-guide)
