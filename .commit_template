@@ -11,6 +11,7 @@
 # [add]ファイル追加
 # [remove] ファイル削除
 # [wip]開発途中
+# [config]設定ファイル追加・編集・削除
 
 # ==== Format ====
 # [Prefixe]Subject
