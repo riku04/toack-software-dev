@@ -4,7 +4,6 @@
 
 ***
 
-## ソフトウェア開発を行う上での原則
 ### 1. 原則としてプロジェクト成果物は全てGitHubで管理する
 
  Git、GitHubについては下記のサイトなどを参照。  
@@ -18,6 +17,8 @@
 - Middlewareなどの設定ファイル
 - Libraryなどの依存関係の定義
 
+　.gitignoreを適切に作成し、仮想環境など管理する必要ないファイルは省く。
+
 
 ### 2. 運用は[Git開発フロー](/Gitを使った開発の流れ.md)に従う
 
@@ -29,3 +30,7 @@
    - [Python](/python-guide)
    - [Java](/java-guide)
    - [HTML/CSS](/html:css-guide)
+   - [Javascript](/javascript-guide)
+   - [Dart](/dart-guide)
+   
+   なお、やむを得ない場合や規則に従わないほうが良いと判断された場合においては従う必要はない。
