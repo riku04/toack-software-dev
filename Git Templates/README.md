@@ -10,12 +10,8 @@ git config --global commit.template ファイルパス.commit_template
 </pre>
 3. Commit後のエディターにテンプレートが挿入されているので、それに倣ってcommitメッセージを記述する  
 
-※Bash以外でのCommitでは未確認
+※VS Codeなどのエディターでもテンプレート使用可能です
 ***
 ### Issue/Pull Request
-1. 本Repositoryの.githubを対象Repository内ににコピー
-1. GitHubでIssue作成時にテンプレートが選択できるようになるので見合ったものを選択
-GitHubでPullRequest作成時にテンプレートが挿入されているのでそれにあわせて記述
-
-
-
+1. 本Repositoryの.githubフォルダーを対象Repositoryのルートにコピー
+1. GitHubでIssue/PR作成時にテンプレートが選択できるようになるので見合ったものを選択
