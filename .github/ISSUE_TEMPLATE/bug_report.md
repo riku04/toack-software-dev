@@ -1,29 +1,34 @@
 ---
-name: バグのテンプレート
-about: バグの報告
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
-**概要**
+**Describe the bug(バグの説明)**
 
-**再現手順**
-1. '....'ボタンを押す
-2. 下にスクロールする
-3. エラー発生
+**To Reproduce(再現手順)**
+Steps to reproduce the behavior:
 
-**期待する動作**
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**完了条件**
-- [ ] 
-- [ ] 
-- [ ] 
+**Expected behavior(期待動作)**
 
-**スクリーンショット**
-可能なら追加する。  
+**Screenshots(If applicable)(可能ならスクリーンショットを添付)**
 
-**環境（PC) (please complete the following information):**
- - OS: [e.g. Windows10]
- - ブラウザ [e.g. chrome, safari]
- - Version [e.g. 22]  
+**Desktop (please complete the following information):**
 
-**追記事項**
+ - OS: Mac OS X
+ - Browser: chrome
+
+**Smartphone (please complete the following information):**
+
+ - Device: iPhone7
+ - OS: iOS13
+
+**Additional context(追記事項)**
